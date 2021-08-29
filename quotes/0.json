@@ -1,12 +1,12 @@
 [
-  {"id": 0, "title": "Pretumbari", "label": "Stavke treba pretumbati."},
-  {"id": 1, "title": "Škicari", "label": "Vrijeme je za škic."},
-  {"id": 2, "title": "Načmetari", "label": "Načmeto je."},
-  {"id": 3, "title": "Gotovari", "label": "Relativno je gotovo."},
-  {"id": 4, "title": "Načmetari", "label": "Kartica je načmeta."},
-  {"id": 5, "title": "Načmetari", "label": "Ajmo reć da je načmeto."},
-  {"id": 6, "title": "Gotovari", "label": "Ajmo reć gotovo."},
-  {"id": 7, "title": "Testiari", "label": "Ostali su još testovi."},
-  {"id": 8, "title": "Validari", "label": "Validiraj."},
-  {"id": 9, "title": "Škicari", "label": "Škicni."}
+  {"id": 1, "title": "Pretumbari", "label": "Stavke treba pretumbati."},
+  {"id": 2, "title": "Škicari", "label": "Vrijeme je za škic."},
+  {"id": 3, "title": "Načmetari", "label": "Načmeto je."},
+  {"id": 4, "title": "Gotovari", "label": "Relativno je gotovo."},
+  {"id": 5, "title": "Načmetari", "label": "Kartica je načmeta."},
+  {"id": 6, "title": "Načmetari", "label": "Ajmo reć da je načmeto."},
+  {"id": 7, "title": "Gotovari", "label": "Ajmo reć gotovo."},
+  {"id": 8, "title": "Testiari", "label": "Ostali su još testovi."},
+  {"id": 9, "title": "Validari", "label": "Validiraj."},
+  {"id": 10, "title": "Škicari", "label": "Škicni."}
 ]
