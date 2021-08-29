@@ -6,13 +6,13 @@ All quotes are listed under `quotes/` directory. Pull this repository, add quote
 
 ```json
 [
-    {"id": 10, "title": "Zavrzlari", "label": "Malo je zavrzlamasto."},
-    {"id": 11, "title": "Errorari", "label": "Baca error."},
-    {"id": 12, "title": "Rođendari", "label": "Jel ti rođendan?"},
-    {"id": 13, "title": "Planeari", "label": "Ajmo na planning"},
-    {"id": 14, "title": "Petkari", "label": "Jel petak?"},
-    {"id": 15, "title": "Zbunjari", "label": "Molim?"},
-    {"id": 16, "title": "Instaliari", "label": "Instaliram ispočetka."}
+    {"id": 11, "title": "Zavrzlari", "label": "Malo je zavrzlamasto."},
+    {"id": 12, "title": "Errorari", "label": "Baca error."},
+    {"id": 13, "title": "Rođendari", "label": "Jel ti rođendan?"},
+    {"id": 14, "title": "Planeari", "label": "Ajmo na planning"},
+    {"id": 15, "title": "Petkari", "label": "Jel petak?"},
+    {"id": 16, "title": "Zbunjari", "label": "Molim?"},
+    {"id": 17, "title": "Instaliari", "label": "Instaliram ispočetka."}
 ]
 ```
 
